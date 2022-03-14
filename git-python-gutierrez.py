@@ -19,4 +19,14 @@ NameError: name 'pring' is not defined
 2nd Year
 >>> print("Section A")
 Section A
+>>> print("Dancing")
+Dancing
+>>> print("Playing Valorant")
+Playing Valorant
+>>> print("Playing Apex Legends")
+Playing Apex Legends
+>>> print("Writing poems")
+Writing poems
+>>> print("Watching movies")
+Watching movies
 >>> 
