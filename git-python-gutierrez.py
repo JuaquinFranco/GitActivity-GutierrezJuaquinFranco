@@ -6,4 +6,17 @@ Juaquin Franco D. Gutierrez
 Santol, Boac, Marinduque
 >>> print("December 2, 2001")
 December 2, 2001
+>>> print("Marinduque State College")
+Marinduque State College
+>>> print("Information Technology")
+Information Technology
+>>> pring("2nd Year")
+Traceback (most recent call last):
+  File "<pyshell#5>", line 1, in <module>
+    pring("2nd Year")
+NameError: name 'pring' is not defined
+>>> print ("2nd Year")
+2nd Year
+>>> print("Section A")
+Section A
 >>> 
